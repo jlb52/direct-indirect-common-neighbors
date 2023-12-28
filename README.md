@@ -63,7 +63,7 @@ As can be seen, AUC tends to be very competitve (against other NetworkX link pre
 
 ### Installation
 ```bash
-pip install direct-indirect-common-neighbors
+pip install git+https://github.com/jlb52/direct-indirect-common-neighbors.git
 ```
 
 ### Usage
